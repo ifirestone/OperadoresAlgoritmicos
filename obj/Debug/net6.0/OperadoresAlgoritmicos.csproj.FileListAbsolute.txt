@@ -1,0 +1,15 @@
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\bin\Debug\net6.0\OperadoresAlgoritmicos.exe
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\bin\Debug\net6.0\OperadoresAlgoritmicos.deps.json
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\bin\Debug\net6.0\OperadoresAlgoritmicos.runtimeconfig.json
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\bin\Debug\net6.0\OperadoresAlgoritmicos.dll
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\bin\Debug\net6.0\OperadoresAlgoritmicos.pdb
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.csproj.AssemblyReference.cache
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.AssemblyInfoInputs.cache
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.AssemblyInfo.cs
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.csproj.CoreCompileInputs.cache
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.dll
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\refint\OperadoresAlgoritmicos.dll
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.pdb
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\OperadoresAlgoritmicos.genruntimeconfig.cache
+C:\Users\ifire\Developer\OperadoresAlgoritmicos\obj\Debug\net6.0\ref\OperadoresAlgoritmicos.dll
